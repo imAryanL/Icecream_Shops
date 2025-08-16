@@ -49,8 +49,8 @@ A delightful web application showcasing the best ice cream shops in Miami throug
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/imAryanL/miami-ice-cream-explorer.git
-   cd miami-ice-cream-explorer
+   git clone https://github.com/imAryanL/miami-icecream_shops.git
+   cd miami-icecream_shops
    ```
 
 2. **Install dependencies**:
@@ -109,14 +109,6 @@ Watch the full demo video:
 [![Miami Ice Cream Explorer Demo](https://cdn.loom.com/sessions/thumbnails/7c32d2eb0fd7421885110daadae3b7f6-86f12167bde8a6ed-full-play.gif)](https://www.loom.com/share/7c32d2eb0fd7421885110daadae3b7f6)
 
 *Click the image above to watch the full video walkthrough*
-
-## Project Details
-
-- **Time Spent**: 11 hours
-- **Student**: Aryan Lakhani
-- **Z Number**: Z23724811
-- **Course**: Web Development Project 1
-- **GitHub**: [@imAryanL](https://github.com/imAryanL)
 
 ## 📄 License
 
