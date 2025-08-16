@@ -50,7 +50,7 @@ A delightful web application showcasing the best ice cream shops in Miami throug
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/imAryanL/miami-icecream_shops.git
-   cd miami-icecream_shops
+   cd icecream
    ```
 
 2. **Install dependencies**:
